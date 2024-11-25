@@ -1,4 +1,4 @@
-# Squid Inc
+
 These are the steps I took to create the now multi-million dollar social mega-media website, Squid Inc.
 
 ## Prequisites
